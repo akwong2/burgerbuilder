@@ -1,6 +1,6 @@
-# Burger Builder React App
-https://alvin-burger-builder.herokuapp.com/
-Created a burger builder react app that allows user to add ingredients and have the burger built virtually in front of them.
+# Burger Builder React App 
+https://alvin-burger-builder.herokuapp.com/ <br>
+Created a burger builder react app that allows user to add ingredients and have the burger built virtually in front of them. <br>
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
